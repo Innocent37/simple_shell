@@ -1,7 +1,8 @@
 #include "shell.h"
 
 /**
- * handle_PATH - Handle the PATH environment variable
+ * handle_PATH - Handles the PATH environment variable
+ * @args: The arguments array
  *
  * Return: No return value
  */
